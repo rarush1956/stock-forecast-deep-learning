@@ -1,0 +1,9 @@
+Stock: INFY.NS
+Model used: GRU
+LSTM RMSE: 51.81
+GRU RMSE: 31.81
+Stock: INFY.NS
+Model used: GRU
+Last known price: 1507.10
+Predicted price on 2026-03-15: 1596.61
+Inferred trend based on historical patterns: upward
